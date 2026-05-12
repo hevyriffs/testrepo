@@ -1,2 +1,2 @@
-console.log('Terraria4.3')
+console.log('TerrariaSync')
 console.log("php8")
