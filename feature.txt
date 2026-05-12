@@ -1,1 +1,1 @@
-Feature 4
+Conflict resolved feature 4
